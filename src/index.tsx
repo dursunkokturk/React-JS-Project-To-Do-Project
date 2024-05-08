@@ -8,9 +8,6 @@ const root = ReactDOM.createRoot(
     document.getElementById('root') as HTMLElement
 );
 root.render(
-
-    /* Console Ekraninda 2 Kez Yazdirmayi Onlemek Icin
-       React Fragment Kullaniyoruz */
     <>
         <App />
     </>
