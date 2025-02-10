@@ -1,3 +1,10 @@
+# Project Screens
+![alt text](/ss/ss1.jpg)
+
+![alt text](/ss/ss2.jpg)
+
+![alt text](/ss/ss3.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
