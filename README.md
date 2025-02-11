@@ -5,6 +5,9 @@
 
 ![alt text](/ss/ss3.jpg)
 
+# Getting Value from User
+Using Typescript and useState, we get the task name entered in the input field with type text and the day value entered in the input field with type number.
+
 # Steps in the Creation of the Project
 * Usage React framework,
 * Using Typescript.
@@ -13,7 +16,7 @@
 * Print values using todoitem.
 
 # Kullanıcıdan Değer Alma
-useState kullanılarak kullanıcıdan type değeri text olan input alanında girilen task adını ve type değeri number olan input alanında girilen  gün değerini alıyoruz.
+Typescript ve useState kullanılarak kullanıcıdan type değeri text olan input alanında girilen task adını ve type değeri number olan input alanında girilen gün değerini alıyoruz.
 
 =================================================================================================================================================================================================================================
 
