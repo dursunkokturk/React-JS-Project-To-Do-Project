@@ -5,6 +5,18 @@
 
 ![alt text](/ss/ss3.jpg)
 
+# Steps in the Creation of the Project
+* Usage React framework,
+* Using Typescript.
+* Update values using useState.
+* Delete task using filter method.
+* Print values using todoitem.
+
+# Kullanıcıdan Değer Alma
+useState kullanılarak kullanıcıdan type değeri text olan input alanında girilen task adını ve type değeri number olan input alanında girilen  gün değerini alıyoruz.
+
+=================================================================================================================================================================================================================================
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
